@@ -1,11 +1,11 @@
 Poli morfismo - Multiplos comportamentos
 
-Override sobreescrendo o comportamento de uma classe base
+- Override sobreescrendo o comportamento de uma classe base
 
-Método abstract - obrigatório ser sobrescrito pela classe que herda a classe
+- Método abstract - obrigatório ser sobrescrito pela classe que herda a classe
 a qual o mesmo está
 
-Método virtaul - não obrigatório ser sobrescrito, mas permite muda ser
+- Método virtaul - não obrigatório ser sobrescrito, mas permite muda ser
 comportamento
 
 Uma classe, por exemplo Cafeteira, assume o comportamento diferente 
