@@ -1,0 +1,18 @@
+* Abstração 
+
+Ideia da abstração: Oferecer um conjunto de estados e comportamentos
+que abstrai uma certa especialização. 
+
+* Método abstract - não é obrigatório a implementar o comportamento dele.
+Pode simplesmente declarar o cabeçalho, mas não é obrigatório implementar
+o comportamento do mesmo. 
+- Mas o objetivo quando é abstract é que a classe que herda o método 
+abstract, que defina o comportamento do método. 
+- Quando a classe é marcada como abstract, está se proibindo que a mesma
+seja instaciada, mas somente herdada.
+
+Conceito: Criar conceitos genéricos que possam ser abstraídos por outras
+classes; 
+
+
+

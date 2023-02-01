@@ -1,0 +1,41 @@
+- Fundamentos de Arquitetura de Software
+
+* Orientação a objeto - OOP 
+
+- Estado;
+- Comportamento;
+- Abstração;
+- Herança;
+- Polimorfismo;
+- Encapsulamento;
+- Comportamento;
+
+Buscar baixo acoplamento e alta coesão entre objetos;
+
+Acoplamento: Quando um objeto muda o outro muda por consequência.
+
+Coesão: Objetos executando uma única responsabilidade livres de uma 
+dependência direta com um outro objeto.
+
+Classe - Estrutura de código que tem como função de mapear um objeto do mundo real;
+
+Objeto - Quando se tem a classe, sendo instânciada. Ou seja, a classe a ser representada
+na memória como objeto(Sendo alocada na memória). 
+
+
+Estado: Faz referência a uma classe. Estado se refere as propriedade da classe. 
+Comportamento: É quando é gerado uma nova informação através da própria classe.
+O comportamento também pode alterar o estado da classe.
+
+
+
+
+
+
+
+
+
+
+
+
+

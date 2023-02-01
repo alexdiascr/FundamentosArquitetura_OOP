@@ -1,0 +1,9 @@
+* Herança 
+
+Herança extende uma classe por conta de uma especialização.
+A classe que herda classe terceira, esta classe absorve os estados e comportamento
+desta terceira classe.
+
+
+
+
