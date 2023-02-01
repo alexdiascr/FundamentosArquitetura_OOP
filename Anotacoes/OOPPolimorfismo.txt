@@ -1,0 +1,20 @@
+Poli morfismo - Multiplos comportamentos
+
+Override sobreescrendo o comportamento de uma classe base
+
+Método abstract - obrigatório ser sobrescrito pela classe que herda a classe
+a qual o mesmo está
+
+Método virtaul - não obrigatório ser sobrescrito, mas permite muda ser
+comportamento
+
+Uma classe, por exemplo Cafeteira, assume o comportamento diferente 
+de acordo com quem está especializando ele(de quem ele está herdando);
+
+Principal definição de polimorfismo, uma classe pode assumir diversos 
+comportamentos independente de ela ser uma classe abstrata, e sim, a mesma
+está sendo herdada e permitir ter um método abstrado ou modificador virtual;
+
+
+
+
