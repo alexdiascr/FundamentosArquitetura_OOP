@@ -7,5 +7,5 @@ expor outro de alto de nível que façam uso deles;
 
 * Enpsulamento geralmente gira entorno dos modificadores de acesso(privado/public)
 
- - 4m09 - Stoped
+* Modificadores de acesso 10m32
 

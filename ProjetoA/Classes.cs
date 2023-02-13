@@ -15,12 +15,15 @@ namespace ProjetoA
         protected internal void TesteProtegidoInterno() { }
     }
 
+    //Só pode ser instanciada
     public sealed class Selada { }
 
+    //Classe privada, não é necessário colocar o modificador de acesso private
     class Privada { }
 
     internal class Interna { }
 
+    // não pode ser instanciado, somente herdado
     abstract class Abstrata { }
 
     #endregion
@@ -83,7 +86,7 @@ namespace ProjetoA
 /*******************************************************/
 // internal:
 
-// Access is limited to the current assembly.
+// Access is limited to the current assembly(DLL)
 /*******************************************************/
 // protected internal:
 
