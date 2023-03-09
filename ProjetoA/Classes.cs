@@ -15,7 +15,7 @@ namespace ProjetoA
         protected internal void TesteProtegidoInterno() { }
     }
 
-    //Só pode ser instanciada
+    //Só pode ser instanciada, nunca herdada
     public sealed class Selada { }
 
     //Classe privada, não é necessário colocar o modificador de acesso private
