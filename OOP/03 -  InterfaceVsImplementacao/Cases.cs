@@ -7,11 +7,6 @@
 
     public class Repositorio : IRepositorio
     {
-        //public Repositorio(int a)
-        //{
-            
-        //}
-
         public void Adicionar()
         {
             // Adiciona item
